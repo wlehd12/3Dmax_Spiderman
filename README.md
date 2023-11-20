@@ -2,9 +2,10 @@
 
 ## target
 
-![Spiderman](https://github.com/wlehd12/3Dmax_Spiderman/assets/125344095/19100160-2674-428a-9a11-8c42706a4be7)
+![Untitled](https://github.com/wlehd12/3Dmax_Spiderman/assets/125344095/63dbf1ca-016c-4a47-a51f-9b3dadb2d7d0)
 
 
 ## result
 
-![ezgif com-video-to-gif](https://github.com/wlehd12/3Dmax_Spiderman/assets/125344095/713303b4-8ec2-40ff-a538-e6e1de0a2715)
+![Untitled](https://github.com/wlehd12/3Dmax_Spiderman/assets/125344095/f7acef98-31cf-438b-8371-3b0cb078c053)
+
